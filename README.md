@@ -14,5 +14,6 @@ Pursuing a concentration in Cyber Security, beginning Fall 2024
 ## Work Experience
 ### Pools Plus
 Summer of 2017 and 2018
+\t Tasks included cleaning pools, customer service, time management
 ### Lowe's
 03/03/22 - 05/08/2024
