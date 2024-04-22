@@ -4,6 +4,9 @@
 ### University of Alabama in Huntsville
 Bachelor of Science in Computer Science - Expected graduation Spring 2025
 
+## Relevant Coursework
+Object-Oriented Programming, Data Structures, Algorithm, Game Developement
+
 ## Skills
 Proficient with C and C++ via multiple courses,
 Familiar with Python via a game development course,
