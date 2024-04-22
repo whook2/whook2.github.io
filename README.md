@@ -5,15 +5,14 @@
 Bachelor of Science in Computer Science - Expected graduation Spring 2025
 
 ## Skills
-Experience with C and C++ via multiple courses,
-Working knowledge of Python via a game development course,
+Proficient with C and C++ via multiple courses,
+Familiar with Python via a game development course,
 Brief knowledge in ARM assembly language,
 Efficient in Microsoft Office products,
 Pursuing a concentration in Cyber Security, beginning Fall 2024
 
 ## Work Experience
 ### Pools Plus
-Summer of 2017 and 2018
-\t Tasks included cleaning pools, customer service, time management
+Summer of 2017 and 2018: Tasks included cleaning pools and customer service
 ### Lowe's
-03/03/22 - 05/08/2024
+03/03/22 - 05/08/2024: Customer Service Associate, tasks included assisting customers with loading mulch and landscaping blocks, time management skills, professionalism, 
