@@ -17,5 +17,9 @@ Pursuing a concentration in Cyber Security, beginning Fall 2024
 ## Programs
 ### Python
 [Pathfinding](https://github.com/whook2/Python-Pathfinding)
+[Path Following](https://github.com/whook2/Python-Path-Following)
+[Dynamic Movement](https://github.com/whook2/Python-Dynamic-Movement)
+
+### C++
 
 
