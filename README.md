@@ -11,8 +11,8 @@
 - Game Developement
 
 ## Skills
-- Experience in C, C++, Python, and ARM assembly.
-- Efficient in Microsoft Office products. 
+- Experience in C, C++, Python, and ARM assembly
+- Efficient in Microsoft Office products
 - Pursuing a concentration in Cyber Security, beginning Fall 2024
 
 ## Programs
