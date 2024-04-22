@@ -14,8 +14,7 @@ Brief knowledge in ARM assembly language,
 Efficient in Microsoft Office products,
 Pursuing a concentration in Cyber Security, beginning Fall 2024
 
-## Work Experience
-### Pools Plus
-Summer of 2017 and 2018: Tasks included cleaning pools and customer service
-### Lowe's
-03/03/22 - 05/08/2024: Customer Service Associate, tasks included assisting customers with loading mulch and landscaping blocks, time management skills, professionalism, 
+## Programs
+
+
+
