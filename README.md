@@ -5,10 +5,10 @@
 Bachelor of Science in Computer Science - Expected graduation Spring 2025
 
 ## Skills
-Experience with C and C++ via multiple courses
-Working knowledge of Python via a game development course
-Brief knowledge in ARM assembly language
-Efficient in Microsoft Office products
+Experience with C and C++ via multiple courses,
+Working knowledge of Python via a game development course,
+Brief knowledge in ARM assembly language,
+Efficient in Microsoft Office products,
 Pursuing a concentration in Cyber Security, beginning Fall 2024
 
 ## Work Experience
