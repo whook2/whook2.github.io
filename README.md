@@ -7,7 +7,7 @@
 ## Relevant Coursework
 - Object-Oriented Programming
 - Data Structures
-- Algorithm
+- Algorithms
 - Game Developement
 
 ## Skills
