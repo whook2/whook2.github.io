@@ -8,7 +8,7 @@
 - Object-Oriented Programming
 - Data Structures
 - Algorithms
-- Game Developement
+- Game Development
 
 ## Skills
 - Experience in C, C++, Python, and ARM assembly
